@@ -17,7 +17,6 @@ El sistema también incluye validación de formularios en el lado del servidor p
 - **Paginación** de entradas del blog
 - **Interfaz fácil de usar**
 
-Este proyecto es ideal para quienes deseen aprender a desarrollar aplicaciones web con Laravel y cómo integrar **Tailwind CSS** para un diseño moderno y atractivo.
 
 ---
 
